@@ -1,0 +1,58 @@
+export default [
+  {
+    img: "https://tse3.mm.bing.net/th/id/OIP.twNkw6qyYCIC_jKOeRqROAHaHa?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse3.mm.bing.net/th/id/OIP.KHDmPf4Tee-BQe90KQm6jQHaHa?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse1.mm.bing.net/th/id/OIP.og_VWIGiK2mfjHGF4lInOAHaI9?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse3.mm.bing.net/th/id/OIP.Gd9sCye22rduOghFm455pQHaF4?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse1.mm.bing.net/th/id/OIP.og_VWIGiK2mfjHGF4lInOAHaI9?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse1.mm.bing.net/th/id/OIP.og_VWIGiK2mfjHGF4lInOAHaI9?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse1.mm.bing.net/th/id/OIP.og_VWIGiK2mfjHGF4lInOAHaI9?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+  {
+    img: "https://tse3.mm.bing.net/th/id/OIP.KHDmPf4Tee-BQe90KQm6jQHaHa?pid=Api&h=220&P=0",
+    name: "zheng zhu",
+    job: "developer",
+    aboutme: "https://www.freecodecamp.org/",
+    contact: "facebook.com",
+  },
+];
