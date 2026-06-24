@@ -6,7 +6,11 @@ function App() {
   const card = data.map((dat) => {
     return <Prop_ex {...dat} />;
   });
-  return <main className="mainPart">{card}</main>;
+  return (
+    <main className=" bg-zinc-900 grid grid-cols-2  place-items-center">
+      {card}
+    </main>
+  );
 }
 
 export default App;
